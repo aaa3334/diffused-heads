@@ -1,11 +1,18 @@
-decord
+#decord - Does not work on mac
+eva-decord
 ffmpeg_python
 hydra-core
 numpy
 opencv_python
 Pillow
 scipy
-torch
-torchaudio
-torchvision
+
+cmake
+
+
+#torch
+#torchaudio
+#torchvision
 tqdm
+
+

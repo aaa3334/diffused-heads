@@ -3,19 +3,19 @@
 #####################
 
 # /path/to/crema_script.pt
-checkpoint: /path/to/crema_script.pt
+checkpoint: /Users/a/Documents/Automations/git talking heads/checkpoints/crema_script.pt
 
 # /path/to/audio_encoder.pt
-encoder_checkpoint: /path/to/audio_encoder.pt
+encoder_checkpoint: /Users/a/Documents/Automations/git talking heads/checkpoints/audio_encoder.pt
 
 # /path/to/id_frame - can be .mp4 or an image
-id_frame: /path/to/id_frame.mp4
+id_frame: /Users/a/Documents/Automations/git talking heads/image/testpic.png
 
 # /path/to/audio - can be anything supported by torchaudio (e.g. .wav, .mp3, .mp4)
-audio: /path/to/audio.wav
+audio: /Users/a/Documents/Automations/git talking heads/audio/output_16kHz.wav
 
 # /path/to/output_video.mp4
-output: /path/to/output_video.mp4
+output: /Users/a/Documents/Automations/git talking heads/output_video.mp4
 
 # use GPU - highly recommended
 gpu: true
